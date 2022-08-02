@@ -1,0 +1,30 @@
+body{
+    background: gray;
+}
+
+h1{
+    text-align: center;
+    color: darkblue;
+    font-size: 65px;
+}
+div{
+    background: #000;
+    color: #fff;
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h2{
+    color: red;
+    font-size: 45px;
+}
+h3{
+    color: yellow;
+    font-size: 35px;
+}
+
+p{
+    font-size: 22px;
+}
